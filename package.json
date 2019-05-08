@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/diegobordeu/unifiApiTest#readme",
   "dependencies": {
+    "node-unifi": "^1.2.2",
     "node-unifiapi": "0.0.53"
   }
 }
